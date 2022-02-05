@@ -47,13 +47,12 @@ img{
     margin-bottom:10px; 
 }
 .order-dis{
-    margin-left:45px;
+    margin-left:13px;
     margin-top: 18px;
     color: hsl(224, 23%, 55%);
-}
-.center{
-    margin-left:105px;
-    color: hsl(224, 23%, 55%);
+    /* border:2px solid red; */
+    text-align: center;
+    width:20vw;
 }
 
 .plan{
